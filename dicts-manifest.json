@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T22:32:15.661255Z",
+  "generatedAt": "2026-09-20T07:42:10.154625Z",
   "releaseTag": "1",
   "items": [
     {
@@ -51,9 +51,9 @@
       "id": "en_base",
       "filename": "en_base.dict",
       "url": "https://github.com/brobata/physiboard-dict/releases/download/1/en_base.dict",
-      "bytes": 13198738,
-      "sha256": "4e0244f753652a890431017a4bf03fc612852cb9cd8933db31a6d25b0c7adea5",
-      "updatedAt": "2026-01-15T18:20:19.531713Z",
+      "bytes": 21491827,
+      "sha256": "19138c2158cfc9cd18ed6e9ca4e18100d2cc7034702be2dd264894e4b7c84032",
+      "updatedAt": "2026-09-10T03:14:04.246241Z",
       "name": "English (Basic)",
       "shortDescription": "Common words \u2022 lightweight",
       "languageTag": "en-US"
