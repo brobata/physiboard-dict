@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T11:23:05Z",
+  "releaseTag": "pbd-1",
+  "items": [
+    {
+      "id": "cs_base",
+      "filename": "cs_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/cs_base.dict",
+      "bytes": 1313400,
+      "sha256": "73f3adbe7c62c4b3add29eb3fdb10745cef0c3323dcacf1f789e497dc31cc038",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Czech (Basic)",
+      "shortDescription": "80,000 words • not spell-checked",
+      "languageTag": "cs-CZ"
+    },
+    {
+      "id": "da_base",
+      "filename": "da_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/da_base.dict",
+      "bytes": 454214,
+      "sha256": "c6220c65d3b4bb8bdb820b2f1831efe6efce9b53b2e1ff70b4e355e19408034c",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Danish (Basic)",
+      "shortDescription": "29,237 words • not spell-checked",
+      "languageTag": "da-DK"
+    },
+    {
+      "id": "de_base",
+      "filename": "de_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/de_base.dict",
+      "bytes": 1454954,
+      "sha256": "3d9d8e47ec62b6a0b5b7e782f96bd357ee4785d1c25570c27d7e39c543def4c0",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "German",
+      "shortDescription": "80,000 words • spell-checked",
+      "languageTag": "de-DE"
+    },
+    {
+      "id": "el_base",
+      "filename": "el_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/el_base.dict",
+      "bytes": 1080410,
+      "sha256": "cdcd5f6ac3ca3ddaca1b45370c1b231c695d7cc80006130dacd9a1f6470e3df3",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Greek (Basic)",
+      "shortDescription": "46,424 words • not spell-checked",
+      "languageTag": "el-GR"
+    },
+    {
+      "id": "es_base",
+      "filename": "es_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/es_base.dict",
+      "bytes": 695186,
+      "sha256": "00635e70b25512455ea68511cff39573aba4cb8d80ce615802c590919e8185e2",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Spanish",
+      "shortDescription": "42,216 words • spell-checked",
+      "languageTag": "es-ES"
+    },
+    {
+      "id": "fr_base",
+      "filename": "fr_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/fr_base.dict",
+      "bytes": 1382248,
+      "sha256": "421084e08396cf3f2e2784eba84d6f2c80281428059bec420cd7dcc36749fac1",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "French",
+      "shortDescription": "80,000 words • spell-checked",
+      "languageTag": "fr-FR"
+    },
+    {
+      "id": "hu_base",
+      "filename": "hu_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/hu_base.dict",
+      "bytes": 778252,
+      "sha256": "46c314149c8fcb98445daa5039baca5eadf08e66c90a9ee2128a4403b8f4b857",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Hungarian (Basic)",
+      "shortDescription": "46,429 words • not spell-checked",
+      "languageTag": "hu-HU"
+    },
+    {
+      "id": "it_base",
+      "filename": "it_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/it_base.dict",
+      "bytes": 1077284,
+      "sha256": "e9a24590b727a91d480c57cac84a47f8f3b95faa02b73dcf34faef12db26e52f",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Italian",
+      "shortDescription": "63,879 words • spell-checked",
+      "languageTag": "it-IT"
+    },
+    {
+      "id": "nl_base",
+      "filename": "nl_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/nl_base.dict",
+      "bytes": 1378158,
+      "sha256": "c70d4c0ff81324268d92c5e76aa12e03ecf3ebb1f93c57cd9b19a0a1f7893161",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Dutch",
+      "shortDescription": "80,000 words • spell-checked",
+      "languageTag": "nl-NL"
+    },
+    {
+      "id": "no_base",
+      "filename": "no_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/no_base.dict",
+      "bytes": 1309702,
+      "sha256": "4052d2ab9fcef2e3bea2047092cae7e8fc8e2320a881402cb223958975381e34",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Norwegian (Basic)",
+      "shortDescription": "80,000 words • not spell-checked",
+      "languageTag": "no-NO"
+    },
+    {
+      "id": "pl_base",
+      "filename": "pl_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/pl_base.dict",
+      "bytes": 1318273,
+      "sha256": "5647264f4a45fd51190b01b0cd7044a71f9b526aa748036d3344b7bfbfc6f1d5",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Polish (Basic)",
+      "shortDescription": "80,000 words • not spell-checked",
+      "languageTag": "pl-PL"
+    },
+    {
+      "id": "pt_base",
+      "filename": "pt_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/pt_base.dict",
+      "bytes": 1349960,
+      "sha256": "ea3d35d135b74a2f07fb7c5a71b9702b3988dd0f042040203958c8be93591043",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Portuguese",
+      "shortDescription": "80,000 words • spell-checked",
+      "languageTag": "pt-PT"
+    },
+    {
+      "id": "ru_base",
+      "filename": "ru_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/ru_base.dict",
+      "bytes": 433954,
+      "sha256": "692bbd966f02a0cdd7a7c87dc7cc48361346a41731a8a79e6ac00e62a869ac11",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Russian",
+      "shortDescription": "19,677 words • spell-checked",
+      "languageTag": "ru-RU"
+    },
+    {
+      "id": "sv_base",
+      "filename": "sv_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/sv_base.dict",
+      "bytes": 1309497,
+      "sha256": "a60ba6ebf63de6468534abe572afc771b342c8aec90e38d84a2e5c070f341472",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Swedish (Basic)",
+      "shortDescription": "80,000 words • not spell-checked",
+      "languageTag": "sv-SE"
+    },
+    {
+      "id": "tr_base",
+      "filename": "tr_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/tr_base.dict",
+      "bytes": 1060831,
+      "sha256": "24e44d3ef9785ab06bbae610a68b4b8d433bda3ca30467781476d097eb84c7d1",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Turkish (Basic)",
+      "shortDescription": "63,009 words • not spell-checked",
+      "languageTag": "tr-TR"
+    },
+    {
+      "id": "uk_base",
+      "filename": "uk_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/uk_base.dict",
+      "bytes": 1885165,
+      "sha256": "cfb784c7f18b79aea8b9cc4909f4ebd6c962a8ba4fa380fd6167d3916b8fb07e",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Ukrainian (Basic)",
+      "shortDescription": "80,000 words • not spell-checked",
+      "languageTag": "uk-UA"
+    },
+    {
+      "id": "vi_base",
+      "filename": "vi_base.dict",
+      "url": "https://github.com/brobata/physiboard-dict/releases/download/pbd-1/vi_base.dict",
+      "bytes": 136651,
+      "sha256": "16d809b8ad4c933b7b531acfbe6867f6cbe8287a44d11d033ec6bfa556929cb2",
+      "updatedAt": "2026-11-02T11:23:05Z",
+      "name": "Vietnamese (Basic)",
+      "shortDescription": "10,387 words • not spell-checked",
+      "languageTag": "vi-VN"
+    }
+  ]
+}
